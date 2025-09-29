@@ -1,0 +1,22 @@
+<!-- Research Customer Studies Image Placeholder -->
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <!-- Interview/survey scene -->
+  <rect x="80" y="80" width="240" height="140" rx="5" fill="#fff" stroke="#dee2e6" stroke-width="2"/>
+  <!-- People in interview -->
+  <g fill="#95a5a6">
+    <circle cx="140" cy="140" r="20"/>
+    <rect x="125" y="160" width="30" height="40" rx="15"/>
+    <circle cx="260" cy="140" r="20"/>
+    <rect x="245" y="160" width="30" height="40" rx="15"/>
+  </g>
+  <!-- Survey/feedback elements -->
+  <g fill="#c0392b" opacity="0.6">
+    <rect x="100" y="110" width="80" height="4" rx="2"/>
+    <rect x="220" y="110" width="60" height="4" rx="2"/>
+    <rect x="100" y="120" width="60" height="4" rx="2"/>
+    <rect x="220" y="120" width="80" height="4" rx="2"/>
+  </g>
+  <text x="200" y="250" text-anchor="middle" fill="#6c757d" font-family="sans-serif" font-size="14">Customer Research</text>
+  <text x="200" y="270" text-anchor="middle" fill="#95a5a6" font-family="sans-serif" font-size="12">Replace with actual image</text>
+</svg>

@@ -1,0 +1,5 @@
+<!-- Trust Icon -->
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <path d="M30 10 L20 15 L20 35 C20 45 30 50 30 50 C30 50 40 45 40 35 L40 15 Z" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <path d="M25 28 L28 31 L35 24" fill="none" stroke="#c0392b" stroke-width="2" stroke-linecap="round"/>
+</svg>
