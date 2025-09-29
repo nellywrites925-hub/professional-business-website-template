@@ -1,0 +1,8 @@
+<!-- Healthcare Research Icon -->
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <rect x="8" y="15" width="20" height="25" rx="2" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <path d="M18 23 L18 32" stroke="#c0392b" stroke-width="2"/>
+  <path d="M13 27.5 L23 27.5" stroke="#c0392b" stroke-width="2"/>
+  <circle cx="38" cy="30" r="8" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <path d="M44 36 L48 40" stroke="#c0392b" stroke-width="2" stroke-linecap="round"/>
+</svg>

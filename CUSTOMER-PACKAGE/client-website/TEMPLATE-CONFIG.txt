@@ -1,0 +1,86 @@
+# Template Configuration File
+# Copy the content on the right side of the arrows (→) to replace placeholders throughout your website
+
+## COMPANY INFORMATION
+[COMPANY_NAME] → Your Business Name Here
+[TAGLINE_OR_SERVICES] → Your Main Services or Tagline
+[COMPANY_DESCRIPTION] → Brief description of your company (1-2 sentences)
+[YOUR_SERVICES] → consulting services | legal services | financial advisory | etc.
+[EXPERIENCE_YEARS] → 15 | 25 | 30 | etc.
+[YOUR_VALUE_PROPOSITION] → trusted solutions | expert guidance | reliable results | etc.
+[YOUR_COMMITMENT_STATEMENT] → Your success is our commitment | Excellence in every project | etc.
+[FOUNDED_YEAR] → 1995 | 2005 | 2010 | etc.
+
+## CONTACT INFORMATION  
+[PHONE_NUMBER] → (555) 123-4567
+[EMAIL_ADDRESS] → info@yourcompany.com
+[STREET_ADDRESS] → 123 Business Street
+[CITY_STATE_ZIP] → Business City, ST 12345
+[WEBSITE_URL] → www.yourcompany.com
+
+## SEO & MARKETING
+[YOUR_KEYWORDS] → professional services, business consulting, your city, your specialty
+[YOUR_INDUSTRY] → professional services | legal | financial | healthcare | etc.
+[YOUR_LOCATION] → New York | Los Angeles | Chicago | your city
+[HERO_HEADLINE] → Professional Excellence in Every Partnership | Expert Solutions for Your Business | etc.
+[HERO_DESCRIPTION] → Delivering trusted solutions with integrity and expertise
+
+## TEAM INFORMATION
+[CEO_NAME] → John Smith
+[CEO_BIO] → Brief professional biography (2-3 sentences)
+[COO_NAME] → Jane Johnson  
+[COO_BIO] → Brief professional biography (2-3 sentences)
+[DIRECTOR_NAME] → Michael Brown
+[DIRECTOR_BIO] → Brief professional biography (2-3 sentences)
+
+## BUSINESS DETAILS
+[PRIMARY_SERVICES] → Strategic Consulting | Legal Advisory | Financial Planning | etc.
+[INDUSTRY_FOCUS] → Healthcare, Technology, Manufacturing | All Industries | etc.
+[CLIENT_COUNT] → 500+ | 1000+ | hundreds of | etc.
+[SUCCESS_METRIC] → 95% client satisfaction | 20+ years experience | Award-winning | etc.
+
+## CUSTOM CONTENT SECTIONS
+[ABOUT_INTRO] → Brief company introduction paragraph
+[MISSION_STATEMENT] → Your company mission
+[VALUES_LIST] → List of core company values
+[SERVICES_INTRO] → Introduction to your services section
+[WHY_CHOOSE_US] → Reasons clients should choose your company
+
+## COLOR SCHEME (Optional - Advanced)
+Choose one of these color schemes by updating CSS variables:
+
+Professional Blue:
+--color-primary: #1e3a8a
+--color-accent: #3b82f6
+
+Modern Green: 
+--color-primary: #065f46
+--color-accent: #059669
+
+Elegant Purple:
+--color-primary: #581c87
+--color-accent: #7c3aed
+
+Classic Navy (Current):
+--color-primary: #2c3e50
+--color-accent: #c0392b
+
+## IMAGES TO REPLACE
+Replace these files in assets/images/:
+- company-logo.svg → Your company logo
+- favicon.ico → Your favicon
+- Any team member photos referenced in about.html
+
+## QUICK SETUP CHECKLIST
+□ Replace all placeholders with your content
+□ Update company logo and favicon  
+□ Replace team member photos
+□ Update contact form recipient email
+□ Test contact form functionality
+□ Update copyright year in footer
+□ Add Google Analytics code (optional)
+□ Upload to hosting platform
+□ Set up custom domain (optional)
+
+---
+💡 TIP: Use Find & Replace (Ctrl+H) in your editor to quickly replace all instances of each placeholder!

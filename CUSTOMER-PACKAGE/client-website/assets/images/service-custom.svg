@@ -1,0 +1,23 @@
+<!-- Service Custom Solutions Image Placeholder -->
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <!-- Custom solution design -->
+  <g fill="#dee2e6" stroke="#ced4da" stroke-width="2">
+    <circle cx="150" cy="120" r="30" fill="none"/>
+    <rect x="220" y="90" width="60" height="60" rx="5" fill="none"/>
+    <polygon points="320,90 350,120 320,150 290,120" fill="none"/>
+  </g>
+  <!-- Connecting lines -->
+  <g stroke="#c0392b" stroke-width="2" fill="none">
+    <line x1="180" y1="120" x2="220" y2="120"/>
+    <line x1="280" y1="120" x2="290" y2="120"/>
+  </g>
+  <!-- Gear/settings icons -->
+  <g fill="#95a5a6">
+    <circle cx="150" cy="120" r="8"/>
+    <circle cx="250" cy="120" r="8"/>
+    <circle cx="320" cy="120" r="8"/>
+  </g>
+  <text x="200" y="250" text-anchor="middle" fill="#6c757d" font-family="sans-serif" font-size="14">Custom Solutions</text>
+  <text x="200" y="270" text-anchor="middle" fill="#95a5a6" font-family="sans-serif" font-size="12">Replace with actual image</text>
+</svg>

@@ -1,0 +1,10 @@
+<!-- Consumer Research Icon -->
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <circle cx="15" cy="20" r="6" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <path d="M8 35 C8 30 10 28 15 28 C20 28 22 30 22 35 L22 40 L8 40 Z" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <rect x="28" y="15" width="15" height="20" rx="2" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <path d="M31 20 L40 20" stroke="#c0392b" stroke-width="1"/>
+  <path d="M31 23 L38 23" stroke="#c0392b" stroke-width="1"/>
+  <path d="M31 26 L40 26" stroke="#c0392b" stroke-width="1"/>
+  <path d="M31 29 L36 29" stroke="#c0392b" stroke-width="1"/>
+</svg>
