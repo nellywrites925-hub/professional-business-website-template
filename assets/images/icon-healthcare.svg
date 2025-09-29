@@ -1,0 +1,6 @@
+<!-- Healthcare Icon -->
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <rect x="15" y="10" width="20" height="30" rx="3" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <path d="M25 18 L25 32" stroke="#c0392b" stroke-width="3"/>
+  <path d="M18 25 L32 25" stroke="#c0392b" stroke-width="3"/>
+</svg>
